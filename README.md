@@ -2,4 +2,4 @@
 
 My name is thienpk
 
-**Welcome to my [github pages] (thienpk.github.io)** 
+**Welcome to my [github pages] (http://thienpk.github.io)** 
